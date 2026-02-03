@@ -2,7 +2,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Dewthilini Wanniarachchi -->
+<!-- ## 👋 &nbsp;Hey there! I'm Dewthilini Wanniarachchi-->
 <h3 align="center">🎓 Computer Science Undergraduate | Aspiring ML & AI Engineer 🤖</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dewthilini-d&label=Profile%20views&color=0e75b6&style=flat" alt="dewthilini-d" /> </p>
