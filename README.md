@@ -11,8 +11,8 @@
 
 - ⚡ Fun fact **I am always learning new programming languages 💻**
 <hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/dewthilini0305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dewthilini0305" height="30" width="40" /></a>
 <a href="https://kaggle.com/dewthilini2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dewthilini2003" height="30" width="40" /></a>
 <a href="https://medium.com/@dewthilini6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dewthilini6" height="30" width="40" /></a>
