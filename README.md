@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dewthilini Wanniarachchi</h1>
-
 <h3 align="center">🎓 Computer Science Undergraduate | Aspiring ML & AI Engineer 🤖</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dewthilini-d&label=Profile%20views&color=0e75b6&style=flat" alt="dewthilini-d" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dewthilini-d&label=Profile%20views&color=0e75b6&style=flat" alt="dewthilini-d" /> </p>
 
 - 🌱 I’m currently learning **Python, Java , Machine Learning,HTML, CSS, JavaScript, SQL ,and Flutter**
 
@@ -28,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dewthilini-d&show_icons=true&locale=en" alt="dewthilini-d" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dewthilini-d&" alt="dewthilini-d" /></p>
-
