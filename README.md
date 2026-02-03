@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dewthilini-d&label=Profile%20views&color=0e75b6&style=flat" alt="dewthilini-d" /> </p>
 
-
+<hr>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
