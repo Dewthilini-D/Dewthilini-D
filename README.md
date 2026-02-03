@@ -1,6 +1,8 @@
-<picture> <img src ="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture> 
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<p align="center">
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
+  </picture>
+</p>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Dewthilini Wanniarachchi-->
 <h1 align="center">Hey there! 👋, I'm Dewthilini Wanniarachchi</h1>
