@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact **I am always learning new programming languages 💻**
 <hr>
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">🤝🏻Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/dewthilini0305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dewthilini0305" height="30" width="40" /></a>
 <a href="https://kaggle.com/dewthilini2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dewthilini2003" height="30" width="40" /></a>
@@ -36,16 +36,29 @@
 
 <hr>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">🧰 Languages and Tools:</h3>
 
 |<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>  | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width=40> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">  | <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40">  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>| <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>  | <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="postman" width="40">  | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40"> |<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"> |<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40">  | 
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 <hr>
 
+### ⚙️ &nbsp;GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dewthilini-d&show_icons=true&locale=en&layout=compact" alt="dewthilini-d" /></p>
+<p align="center">
+  <a href="https://github.com/Dewthilini-D">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dewthilini-D&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Dewthilini-D">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dewthilini-D&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dewthilini-d&show_icons=true&locale=en" alt="dewthilini-d" /></p>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dewthilini-D&theme=dark&hide_border=true"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dewthilini-d&" alt="dewthilini-d" /></p>
+
+
+
+
