@@ -35,23 +35,23 @@
 
 <a href="mailto:dewthilini6@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://github.com/Dewthilini-D" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://kaggle.com/dewthilini2003" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://medium.com/@dewthilini6" target="_blank">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-</a>
+</a> &nbsp;&nbsp;
 
 <a href="https://www.hackerrank.com/dewthilini6" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-</a><br>
+</a>&nbsp;&nbsp;
 
 <hr>
 
