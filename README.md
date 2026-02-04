@@ -5,7 +5,7 @@
 </p>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Dewthilini Wanniarachchi-->
-<h1 align="center">Hey there! 👋, I'm Dewthilini Wanniarachchi</h1>
+<h1 align="center">Hey there! , I'm Dewthilini Wanniarachchi 👋</h1>
 <h3 align="center">🎓 Computer Science Undergraduate | Aspiring ML & AI Engineer 🤖</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dewthilini-d&label=Profile%20views&color=0e75b6&style=flat" alt="dewthilini-d" /> </p>
@@ -53,6 +53,8 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dewthilini-D&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+<hr>
 
 
 
